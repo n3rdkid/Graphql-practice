@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER":"red",
+        "MONGO_PASSWORD":"cIYMW9Dln7VzChVb",
+        "MONGO_DB":"TASK01",
+        "JWT_SECRET":"SECRETHOYO"
+    }
+}
